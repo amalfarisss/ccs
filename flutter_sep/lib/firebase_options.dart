@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'ccs-sep.firebasestorage.app',
     measurementId: 'G-H2QFJJT98Y',
   );
+
 }

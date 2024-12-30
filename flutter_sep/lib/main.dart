@@ -59,7 +59,7 @@ class __MainNavigationStateState extends State<_MainNavigationState> {
   static const TextStyle optionStyle = TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
     Text(
-      'Index 0: Dashboard',
+      'Index 0: Profile',
       style:optionStyle
     ),
     Text(
@@ -75,7 +75,7 @@ class __MainNavigationStateState extends State<_MainNavigationState> {
       style:optionStyle
     ),
     Text(
-      'Index 4: Dashboard',
+      'Index 4: Setting',
       style:optionStyle
     ),
   ];
